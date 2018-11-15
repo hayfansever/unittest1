@@ -1,0 +1,13 @@
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\xunit.abstractions.dll
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\xunit.assert.dll
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\xunit.core.dll
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\xunit.execution.desktop.dll
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\xunit.abstractions.xml
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\xunit.assert.xml
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\xunit.core.xml
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\xunit.execution.desktop.xml
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\huseyintumer\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
